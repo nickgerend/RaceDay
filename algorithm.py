@@ -1,5 +1,5 @@
 # Written by: Nick Gerend, @dataoutsider
-# Viz: "RaceDay", enjoy!
+# Viz: "Race Day", enjoy!
 
 from math import acos, pi, sqrt, cos, sin
 import matplotlib.pyplot as plt

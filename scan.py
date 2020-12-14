@@ -1,5 +1,5 @@
 # Written by: Nick Gerend, @dataoutsider
-# Viz: "RaceDay", enjoy!
+# Viz: "Race Day", enjoy!
 
 import os
 import pandas as pd
